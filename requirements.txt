@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-pandas
-numpy
-faiss-cpu
 pydantic
 sentence-transformers
+faiss-cpu
+google-generativeai
+pandas
+numpy
